@@ -18,7 +18,7 @@ int main(void) {
     // Main program loop
     do {
         // Display welcome menu
-        printf("=== TICKET FLOW 2025 ===\n");
+        printf("=== TICKET FLOW ===\n");
         printf("Advanced Cinema Sales Analytics\n\n");
         
         for(int i = 0; i < 3; i++) {
@@ -136,4 +136,5 @@ if(tolower(answer) == 'y') {  // ← SEM [0] já que não é mais array!
     } while(1); // Continue loop until user chooses to exit
     
     return 0;
+
 }
