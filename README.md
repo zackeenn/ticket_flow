@@ -1,4 +1,4 @@
-# 🎟️ Ticket Flow 2025
+# 🎟️ Ticket Flow
 
 **Ticket Flow 2025** is a simple and interactive C program designed for cinema sales analytics. It features a fun and engaging way to generate and visualize random ticket sales data for top-rated movies. Whether you're learning C or want to demonstrate basic concepts in data generation and ASCII visualization, Ticket Flow is a perfect starting point.
 
